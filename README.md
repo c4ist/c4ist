@@ -16,7 +16,10 @@
 🐦 [email me](https://mailto:cain@otters.email) 
 
 
-🕸️ [webpage](https://cain.codes) | ❓ next project **collaborative document editor**
+🕸️ [webpage](https://cain.codes) 
+
+
+❓ next project **collaborative document editor**
 
 
 
