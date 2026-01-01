@@ -13,7 +13,7 @@
  
 
 
-🐦 [email me] | 
+🐦 [email me](https://mailto:cain@otters.email) | 
 
 
 🕸️ [webpage] | ❓ next project **website**
