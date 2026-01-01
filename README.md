@@ -13,10 +13,10 @@
  
 
 
-🐦 [email me](https://mailto:cain@otters.email) | 
+🐦 [email me](https://mailto:cain@otters.email) 
 
 
-🕸️ [webpage] | ❓ next project **website**
+🕸️ [webpage](https://cain.codes) | ❓ next project **collaborative document editor**
 
 
 
