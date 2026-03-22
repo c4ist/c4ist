@@ -29,10 +29,6 @@
 
 
 
-
-
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c4ist&show_icons=true&theme=dark&locale=en" alt="c4ist" /></p>
 
 
