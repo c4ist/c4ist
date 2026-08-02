@@ -1,6 +1,6 @@
 # 👨‍💻 hey, i'm cain
 
-> code. break. fix. repeat.
+> software engineer optimizing everything 
 
 
 ## what i work with
@@ -41,24 +41,9 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=c4ist&show_icons=true&theme=dark)
 
----
-
-## 📌 pinned
-
----
 
 ## find me
 
 [![twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
 [![dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/yourhandle)
-
----
-
-```javascript
-// life motto
-while (alive) {
-  learn();
-  build();
-  share();
-}
