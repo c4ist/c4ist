@@ -16,26 +16,7 @@
 
 | project | description | stack |
 |---------|-------------|-------|
-| **`swift.host`** | privacy-hardened blazing-fast image host | react, rust ) |
-
-
----
-
-## tech stack
-
-**frontend**
-- react · vue · tailwind · typescript
-
-**backend**
-- node · go · rust · python
-
-**infra**
-- docker · k8s · terraform · aws
-
-**tools**
-- git · vim · tmux · zsh
-
----
+| **`swift.host`** | privacy-hardened blazing-fast image host | react, rust ) | 
 
 ## 📊 stats
 
