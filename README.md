@@ -1,44 +1,64 @@
+# 👨‍💻 hey, i'm cain
+
+> code. break. fix. repeat.
 
 
+## what i work with
 
-<div align="center">
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
+---
 
- 
+## currently building
 
-
-# 💽 cain
-
-
- 
-
-
-🐦 [email me](mailto:cain@otters.email) 
-
-
-🕸️ [webpage](https://cain.codes) 
+| project | description | stack |
+|---------|-------------|-------|
+| **`swift.host`** | privacy-hardened blazing-fast image host | react, rust ) |
 
 
-❓ next project **collaborative document editor**
+---
 
+## tech stack
 
+**frontend**
+- react · vue · tailwind · typescript
 
+**backend**
+- node · go · rust · python
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=c4ist&label=Stalkers&color=000000&style=plastic" alt="c4ist" /> </p>
+**infra**
+- docker · k8s · terraform · aws
 
+**tools**
+- git · vim · tmux · zsh
 
+---
 
+## 📊 stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c4ist&show_icons=true&theme=dark&locale=en" alt="c4ist" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=c4ist&show_icons=true&theme=dark)
 
+---
 
+## 📌 pinned
 
+---
 
+## find me
 
+[![twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
+[![dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/yourhandle)
 
+---
 
-
-# tech stack
-
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,kotlin,nodejs,java,python)](https://skillicons.dev)
+```javascript
+// life motto
+while (alive) {
+  learn();
+  build();
+  share();
+}
