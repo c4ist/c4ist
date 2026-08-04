@@ -16,7 +16,7 @@
 
 | project | description | stack |
 |---------|-------------|-------|
-| **`swift.host`** | privacy-hardened blazing-fast image host | react, rust ) | 
+| **`swift.gg`** | privacy-hardened service-suite | react, rust, sql, ts ) | 
 
 ## 📊 stats
 
