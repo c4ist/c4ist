@@ -1,6 +1,6 @@
 # 👨‍💻 hey, i'm cain
 
-> software engineer optimizing everything 
+> i like math and low level stuff 
 
 
 ## what i work with
@@ -11,18 +11,6 @@
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ---
-
-## currently building
-
-| project | description | stack |
-|---------|-------------|-------|
-| **`swift.gg`** | privacy-hardened service-suite | react, rust, sql, ts ) | 
-
-## 📊 stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=c4ist&show_icons=true&theme=dark)
-
-
 ## find me
 
 [![twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
